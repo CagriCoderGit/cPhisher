@@ -15,7 +15,7 @@ Debian tabanlı sistemlerde hızlı kurulum için aşağıdaki komut bloğunu ku
 
 ```bash
 # 1. Depoyu klonlayın ve dizine erişin
-git clone [https://github.com/CagriCoderGit/cPhisher](https://github.com/CagriCoderGit/cPhisher)
+git clone https://github.com/CagriCoderGit/cPhisher
 cd cPhisher
 
 # 2. Yetkilendirmeleri tanımlayın
@@ -49,3 +49,4 @@ Localxpose,Özelleştirilebilir subdomain destekli ters proxy.,Kali/Termux,✅ A
 Live Audit,logged.txt üzerinden gerçek zamanlı trafik izleme.,Tümü,✅ Aktif
 
   
+
